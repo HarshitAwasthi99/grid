@@ -1,0 +1,250 @@
+.box1 {
+    background-color: blue;
+    height:60px;  
+    
+}
+
+.y1 {
+    
+    
+    margin-left: 30px;
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+
+}
+.y2 , .y3, .y4, .y5 {
+    
+    float: right;
+    margin-right:40px;
+    text-decoration:none;
+    color:white;
+    text-align: center;
+
+}
+
+.link {
+    text-align: center;
+    
+    
+}
+body {
+    background:lightgray;
+    padding-left: 40px;
+    padding-right:40px;
+    
+
+}
+
+
+.bx {
+     
+        background-color: lightskyblue;
+}
+.bx2 {
+    font-family: georgia;
+    text-align: center;
+}
+.b2{
+    text-align: center;
+    padding-top: 10px;
+}
+.btn {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+
+
+.box2 {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.pic-box {
+    margin-left: 5px;
+    margin-right:5px;
+   
+    
+
+}
+.box3 {
+    margin-top: 5px;
+    padding-bottom: 10px;
+    background-image: url("https://images.financialexpress.com/2020/04/sky660.jpg");
+}
+.b1 {
+    text-align: center;
+    padding-top: 10px;
+}
+.bb2 {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 10px;
+}
+.p1,.p2,.p3 {
+    text-align: center;
+}
+.big-box {
+    
+    
+    background-color: lightskyblue;
+    text-align: center;
+    
+    padding-bottom: 30px;
+    margin-top: 5px;
+}
+.p5 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.big-box2 {
+    background-color: lightskyblue;
+    text-align: center;
+    
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.edu {
+    display: grid;
+    grid-template-columns:1fr 1fr ;
+
+}
+.q {
+    background-color: lightskyblue;
+    margin-top: 5px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.web {
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 5px;
+    
+}
+.w1 {
+    padding-top: 15px;
+}
+.w2 {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+.adv {
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.a1 {
+    padding-top: 15px;
+}
+.a2 {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.game {
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 5px;
+
+}
+.g1 {
+    padding-top: 15px;
+}
+.g2 {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.music {
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: 5px;
+
+}
+.m1 {
+    padding-top: 15px;
+}
+.mi {
+   
+
+
+}
+.m2 {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.b4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.rbox {
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.mobile {
+    margin-top: 5px;
+    background-color: lightskyblue;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-right: 5px;
+}
+.sw {
+    background-color: lightskyblue;
+    text-align:center;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.e {
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.co {
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: 5px;
+    
+}
+.msec {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.purple {
+    background-color: purple;
+    margin-top: 5px;
+    padding-right: 15px;
+    height:100%;
+    padding-bottom: 30px;
+
+}
+.bgbx {
+    margin-top: 5px;
+    text-align: center;
+    background-color: lightskyblue;
+    height:100%;
+    padding-bottom: 30px;
+
+}
+.last {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
